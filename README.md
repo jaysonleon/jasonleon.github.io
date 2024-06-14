@@ -6,8 +6,8 @@ I started my coding journey in Fall 2022, with Harvard's online course, CS50. Af
 
 ## Technical Knowledge
 
-- Languages: Java, Python, JavaScript, CSS/HTML, C, x86-Assembly, SystemVerilog, RISC-V, SQL
-- Other: Windows, MacOS, Linux, Unix, Ubuntu
+- Languages: Java, Python, JavaScript, CSS/HTML, C, SQL
+- Other: Windows, MacOS, Linux, Unix, Ubuntu, x86-Assembly, SystemVerilog, RISC-V
 
 ## Education
 
